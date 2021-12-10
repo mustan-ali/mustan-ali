@@ -14,7 +14,7 @@
 <hr>
 
 <h3>Languages</h3>
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
@@ -25,7 +25,7 @@
 <hr>
 
 <h3>Tools</h3>
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="Visual Studio Code Badge">
 <img src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=fff&style=for-the-badge" alt="Atom Badge">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
