@@ -45,5 +45,5 @@
 <hr>
 
 <p align='center'>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1KzKdT3/ezgif-com-gif-maker-1.gif" height="200" width="250" border="0"></a>  
+<img src="https://i.ibb.co/1KzKdT3/ezgif-com-gif-maker-1.gif" height="200" width="250" border="0">
 </p>
