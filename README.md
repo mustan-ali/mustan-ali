@@ -6,6 +6,7 @@
 </p>
 
 <p align='center'>
+  <a href="mailto:mmmustanali.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
 <a href="https://steamcommunity.com/id/_haxor"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge"></a>
 <a href="https://discordapp.com/users/510412302525267969"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge"></a>
 </p>
@@ -31,4 +32,5 @@
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" alt="XAMPP Badge">
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge" alt="Sublime Text Badge">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" alt="Visual Studio Badge"> 
+  <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge" alt="Notepad++ Badge">
 </p>
