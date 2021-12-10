@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Mustan </h1>
 
 <p align='center'>
-<img src="https://i.ibb.co/XxD7RTG/image-1-1.png" height="100" width="300"></a><br/>
+<img src="https://i.ibb.co/XxD7RTG/image-1-1.png" height="90" width="300"></a><br/>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmustan-ali"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile%20Views&countColor=%23697689&style=flat-square" /></a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h3>Tools</h3>
+<h3>Tools & Software</h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge" alt="Visual Studio Code Badge">
 <img src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=fff&style=for-the-badge" alt="Atom Badge">
@@ -32,5 +32,12 @@
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge" alt="XAMPP Badge">
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge" alt="Sublime Text Badge">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" alt="Visual Studio Badge"> 
-  <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge" alt="Notepad++ Badge">
+<img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge" alt="Notepad++ Badge">
+<img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoftvisio&logoColor=fff&style=for-the-badge" alt="Microsoft Visio Badge">
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge" alt="Google Chrome Badge">
+<img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge" alt="Brave Badge">
+<img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=for-the-badge" alt="Microsoft Edge Badge">
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=for-the-badge" alt="Microsoft Office Badge">
+<img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge" alt="Prettier Badge">
+  
 </p>
