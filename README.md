@@ -39,5 +39,6 @@
 <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=for-the-badge" alt="Microsoft Edge Badge">
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=for-the-badge" alt="Microsoft Office Badge">
 <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge" alt="Prettier Badge">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge" alt="Adobe Illustrator Badge">
   
 </p>
