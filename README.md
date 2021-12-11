@@ -3,9 +3,7 @@
 I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </p>  
 
-<p align='center'>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmustan-ali"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile%20Views&countColor=%23697689&style=flat-square" /></a>
-</p>
+
 
 <p align='center'>
   <a href="mailto:mmmustanali.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
@@ -49,5 +47,8 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 
 <hr>
 
+<p align='right'>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmustan-ali"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile%20Views&countColor=%23697689&style=flat-square" /></a>
+</p>
 
 
