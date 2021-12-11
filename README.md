@@ -37,11 +37,17 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge" alt="Notepad++ Badge">
 <img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoftvisio&logoColor=fff&style=for-the-badge" alt="Microsoft Visio Badge">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge" alt="Google Chrome Badge">
-<img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=for-the-badge" alt="Brave Badge">
 <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=for-the-badge" alt="Microsoft Edge Badge">
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=for-the-badge" alt="Microsoft Office Badge">
 <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge" alt="Prettier Badge">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge" alt="Adobe Illustrator Badge">  
+<img src="https://img.shields.io/badge/-BRACKET-%2328A5DC?logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/-VISUAL%20BASIC-%23B78AEC?logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/-CHROME%20DEV%20TOOL-%237B7B7B?logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/-CODE%3A%3ABLOCKS-%23B9B9B9?logoColor=fff&style=for-the-badge">
 </p>
 
 <hr>
+
+
+
