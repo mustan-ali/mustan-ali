@@ -1,7 +1,9 @@
 <h1 align='center'> Hi there 👋, I'm Mustan </h1>
+<p align='center'>
+I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
+</p>  
 
 <p align='center'>
-<img src="https://i.ibb.co/XxD7RTG/image-1-1.png" height="90" width="300"></a><br/>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmustan-ali"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile%20Views&countColor=%23697689&style=flat-square" /></a>
 </p>
 
@@ -43,7 +45,3 @@
 </p>
 
 <hr>
-
-<p align='center'>
-<img src="https://i.ibb.co/1KzKdT3/ezgif-com-gif-maker-1.gif" height="200" width="250" border="0">
-</p>
