@@ -6,7 +6,7 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 
 
 <p align='center'>
-  <a href="mailto:mmmustanali.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
+  <a href="mailto:mmmustanali@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
 <a href="https://steamcommunity.com/id/_haxor"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge"></a>
 <a href="https://discordapp.com/users/510412302525267969"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge"></a>
 </p>
