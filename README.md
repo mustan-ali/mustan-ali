@@ -1,3 +1,7 @@
+<div align="center">
+<img align="center" src="https://github.com/mustan-ali/img/blob/main/pictures/programmer.png" width="200" height="200">
+</div>
+
 <h1 align='center'> Hi there 👋, I'm Mustan </h1>
 <p align='center'>
 I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
@@ -34,11 +38,17 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <img src="https://github.com/mustan-ali/img/blob/main/logo/sublimetext.png" title="Sublime Text" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/vscode.png" title="Visual Studio Code" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/xampp.png" title="XAMPP" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/mustan-ali/img/blob/main/logo/msvisio.png" title="Microsoft Visio" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/visualstudio.png" title="Visual Studio" width="50" height="50"/>
 </p>
 
 <hr>
 
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mustan-ali&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Mustan's Github Stats"> 
+</div>
+
+<hr>
 <p align='right'>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmustan-ali"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile%20Views&countColor=%23697689&style=flat-square" /></a>
 </p>
