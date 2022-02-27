@@ -17,29 +17,29 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 
 <h3>Languages:</h3>
 <p align="center">
-<img src="https://github.com/mustan-ali/img/blob/main/logo/html.png" title="HTML" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/css.png" title="CSS" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/javascript.png" title="Javascript" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/c.png" title="C" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/mysql.png" title="MySQL" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/python.png" title="Python" width="50" height="50"/>
+<img src="https://github.com/mustan-ali/img/blob/main/logo/html.png" title="HTML" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/css.png" title="CSS" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/javascript.png" title="Javascript" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/c.png" title="C" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/mysql.png" title="MySQL" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/python.png" title="Python" width="45" height="45"/>
 </p>
 
 <h3>Tools & Software:</h3>
 <p align="center">
-<img src="https://github.com/mustan-ali/img/blob/main/logo/Notepad%2B%2B.png" title="Notepad++" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/adobeillustrator.png" title="Adobe Illustrator" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/atom.png" title="Atom" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/brackets.png" title="Brackets" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/codeblocks.png" title="CodeBlocks" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/github.png" title="Github" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/googledevtool.png" title="Google Developer Tool" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/pycharm.png" title="Pycharm" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/sublimetext.png" title="Sublime Text" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/vscode.png" title="Visual Studio Code" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/xampp.png" title="XAMPP" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/mustan-ali/img/blob/main/logo/msvisio.png" title="Microsoft Visio" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/visualstudio.png" title="Visual Studio" width="50" height="50"/>
+<img src="https://github.com/mustan-ali/img/blob/main/logo/Notepad%2B%2B.png" title="Notepad++" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/adobeillustrator.png" title="Adobe Illustrator" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/atom.png" title="Atom" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/brackets.png" title="Brackets" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/codeblocks.png" title="CodeBlocks" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/github.png" title="Github" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/googledevtool.png" title="Google Developer Tool" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/pycharm.png" title="Pycharm" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/sublimetext.png" title="Sublime Text" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/vscode.png" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/xampp.png" title="XAMPP" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://github.com/mustan-ali/img/blob/main/logo/msvisio.png" title="Microsoft Visio" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/visualstudio.png" title="Visual Studio" width="45" height="45"/>
 </p>
 
 <hr>
