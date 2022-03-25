@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://github.com/mustan-ali/img/blob/main/pictures/programmer.png" width="200" height="200">
+<img align="center" src="https://github.com/mustan-ali/img/blob/main/pictures/programmer.png" width="150" height="150">
 </div>
 
 <h1 align='center'> Hi there 👋, I'm Mustan </h1>
@@ -38,14 +38,16 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <img src="https://github.com/mustan-ali/img/blob/main/logo/sublimetext.png" title="Sublime Text" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/vscode.png" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/xampp.png" title="XAMPP" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://github.com/mustan-ali/img/blob/main/logo/msvisio.png" title="Microsoft Visio" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/msvisio.png" title="Microsoft Visio" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/intellijidea.png" title="IntelliJ IDEA" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/visualstudio.png" title="Visual Studio" width="45" height="45"/>
 </p>
 
 <hr>
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mustan-ali&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Mustan's Github Stats"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mustan-ali&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Mustan's Github Stats" width = 400>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustan-ali&layout=compact" alt="Mustan's Github Stats" width = 400>
 </div>
 
 <hr>
