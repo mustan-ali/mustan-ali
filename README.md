@@ -22,7 +22,8 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <img src="https://github.com/mustan-ali/img/blob/main/logo/javascript.png" title="Javascript" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/c.png" title="C" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/mysql.png" title="MySQL" width="45" height="45"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/python.png" title="Python" width="45" height="45"/>
+<img src="https://github.com/mustan-ali/img/blob/main/logo/python.png" title="Python" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/java.png" title="JAVA" width="45" height="45"/>
 </p>
 
 <h3>Tools & Software:</h3>
