@@ -1,7 +1,3 @@
-<div align="center">
-<img align="center" src="https://github.com/mustan-ali/img/blob/main/pictures/programmer.png" width="150" height="150">
-</div>
-
 <h1 align='center'> Hi there 👋, I'm Mustan </h1>
 <p align='center'>
 I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
