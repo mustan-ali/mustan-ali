@@ -27,16 +27,12 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <p align="center">
 <img src="https://github.com/mustan-ali/img/blob/main/logo/Notepad%2B%2B.png" title="Notepad++" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/adobeillustrator.png" title="Adobe Illustrator" width="45" height="45"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/atom.png" title="Atom" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/brackets.png" title="Brackets" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/codeblocks.png" title="CodeBlocks" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/github.png" title="Github" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/googledevtool.png" title="Google Developer Tool" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/pycharm.png" title="Pycharm" width="45" height="45"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/sublimetext.png" title="Sublime Text" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/vscode.png" title="Visual Studio Code" width="45" height="45"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/xampp.png" title="XAMPP" width="45" height="45"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/msvisio.png" title="Microsoft Visio" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/intellijidea.png" title="IntelliJ IDEA" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/visualstudio.png" title="Visual Studio" width="45" height="45"/>
 </p>
