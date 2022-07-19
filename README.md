@@ -5,10 +5,10 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </p>  
 
 <p align='center'>
-<a href="mailto:mmmustanali@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square" alt="Gmail Badge"></a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/_haxor"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square"></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/510412302525267969"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord Badge"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mustan-ali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="Linkedin Badge"></a>&nbsp;&nbsp;
+<a href="mailto:mmmustanali@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Badge" height= 30></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/_haxor"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height= 30></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/510412302525267969"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord Badge" height= 30></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mustan-ali/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin Badge" height= 30></a>&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -39,7 +39,6 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </samp>
 </h3>
 <p align="center">
-<img src="https://github.com/mustan-ali/img/blob/main/logo/Notepad%2B%2B.png" title="Notepad++" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/adobeillustrator.png" title="Adobe Illustrator" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/brackets.png" title="Brackets" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/codeblocks.png" title="CodeBlocks" width="35" height="35"/>&nbsp;&nbsp;
@@ -67,5 +66,5 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 
 <hr>
 <p align='right'>
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile%20Views&countColor=%23697689&style=flat-square" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Views&countColor=%23697689&style=flat-square" />
 </p>
