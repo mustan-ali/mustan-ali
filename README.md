@@ -40,7 +40,7 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="35" height="35"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/brackets.png" title="Brackets" width="35" height="35"/>&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/brackets.svg" title="Brackets" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/codeblocks.png" title="CodeBlocks" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/github.png" title="Github" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/googledevtool.png" title="Google Developer Tool" width="35" height="35"/>&nbsp;&nbsp;
