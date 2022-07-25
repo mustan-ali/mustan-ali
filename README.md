@@ -39,14 +39,15 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </samp>
 </h3>
 <p align="center">
-<img src="https://github.com/mustan-ali/img/blob/main/logo/adobeillustrator.png" title="Adobe Illustrator" width="35" height="35"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/brackets.png" title="Brackets" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/codeblocks.png" title="CodeBlocks" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/github.png" title="Github" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/googledevtool.png" title="Google Developer Tool" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/pycharm.png" title="Pycharm" width="35" height="35"/>&nbsp;&nbsp;
-<img src="https://github.com/mustan-ali/img/blob/main/logo/vscode.png" title="Visual Studio Code" width="35" height="35"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/intellijidea.png" title="IntelliJ IDEA" width="35" height="35"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="35" height="35"/>&nbsp;&nbsp;
 <br><br>
 </p>
 
