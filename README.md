@@ -1,5 +1,4 @@
-<h1 align='center'> &gt; Hey There!, I am
-<b><a target="_blank" href="https://github.com/mustan-ali">Mustan Ali</a></b> </h1>
+<h1 align='center'> &gt; Hey There!, I am <b>Mustan Ali</b> </h1>
 <p align='center'>
 I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </p>  
@@ -7,7 +6,6 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <p align='center'>
 <a href="mailto:mmmustanali@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Badge" height= 30></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/_haxor"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height= 30></a>&nbsp;&nbsp;
-<a href="https://twitter.com/mmmustanali"><img src="https://www.svgrepo.com/show/49959/twitter.svg" height= 30></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/510412302525267969"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord Badge" height= 30></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mustan-ali/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin Badge" height= 30></a>&nbsp;&nbsp;
 </p>
@@ -54,17 +52,14 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 
 
 
-<h3 align="center">
-<samp>
-「 Stats</b> 」
-<br>
-</samp>
-</h3>
+<details align="center">
+<summary> <h3><samp>&#9776; More</samp></h3></summary>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mustan-ali&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Mustan's Github Stats" width = 375>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustan-ali&layout=compact" alt="Mustan's Github Stats" width = 375>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mustan-ali&bg_color=ffffff&color=000000&line=949494&point=000000&area=true&hide_border=true"  width = 800>
 </div>
+</details>
 
 <hr>
 <p align='right'>
