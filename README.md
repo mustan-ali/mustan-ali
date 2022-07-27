@@ -7,6 +7,7 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <p align='center'>
 <a href="mailto:mmmustanali@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Badge" height= 30></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/_haxor"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height= 30></a>&nbsp;&nbsp;
+<a href="https://twitter.com/mmmustanali"><img src="https://www.svgrepo.com/show/49959/twitter.svg" height= 30></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/510412302525267969"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord Badge" height= 30></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mustan-ali/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin Badge" height= 30></a>&nbsp;&nbsp;
 </p>
