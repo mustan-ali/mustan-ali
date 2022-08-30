@@ -14,7 +14,7 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 
 <h3 align="center">
 <samp>
-「 Languages 」
+「 Languages & Framework 」
 <br>
 </samp>
 </h3>
@@ -22,6 +22,7 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height= 35 width=35/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= 35 width=35/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" height= 35 width=35/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height= 35 width=35/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height= 35 width=35/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height= 35 width=35/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height= 40 width 40/>&nbsp;&nbsp;
