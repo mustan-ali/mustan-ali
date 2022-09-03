@@ -3,13 +3,6 @@
 I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </p>  
 
-<p align='center'>
-<a href="mailto:mmmustanali@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Badge" height= 30></a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/_haxor"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" height= 30></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/510412302525267969"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord Badge" height= 30></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mustan-ali/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin Badge" height= 30></a>&nbsp;&nbsp;
-</p>
-
 <hr>
 
 <h3 align="center">
@@ -63,6 +56,7 @@ I live in Karachi, Pakistan and Currently studying BSCS at SZABIST
 </details>
 
 <hr>
+
 <p align='right'>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Views&countColor=%23697689&style=flat-square" />
 </p>
