@@ -26,6 +26,7 @@
 </h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="35" height="35"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/brackets.svg" title="Brackets" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://i.ibb.co/tzRVsVR/workfeatured-Git-Hub-2-modified.png" title="Github" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="35" height="35"/>&nbsp;&nbsp;
