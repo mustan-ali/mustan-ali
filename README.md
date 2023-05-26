@@ -23,10 +23,10 @@
 </p>
 
 <details align="center">
-<summary> <h4><samp>&#9776; More</samp></h4></summary>
+<summary> <h4><samp>&#9776; MORE</samp></h4></summary>
 <div align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=mustan-ali&theme=dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" alt="Mustan's Github Stats" width = 400><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustan-ali&layout=compact&langs_count=10&theme=transparent" alt="Mustan's Github Stats" width = 400 height = 250><br>
+<img align="center" src="https://streak-stats.demolab.com?user=mustan-ali&theme=dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00" alt="Mustan's Github Stats" width = 300><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustan-ali&layout=compact&langs_count=10&theme=transparent" alt="Mustan's Github Stats" width = 300 height = 250><br>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Views&countColor=%23697689&style=flat-square" />
 </div>
 </details>
