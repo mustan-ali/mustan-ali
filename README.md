@@ -20,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://github.com/mustan-ali/img/blob/main/logo/intellijidea.png" title="IntelliJ IDEA" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="37" height="37"/>&nbsp;&nbsp;
 </p>
 
 <details align="center">
