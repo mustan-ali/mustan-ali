@@ -23,6 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="37" height="37"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="39" height="39"/>&nbsp;&nbsp;
+<img src="https://i.ibb.co/c6CMfC9/icons8-express-js-160.png" title="ExpressJS" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
 <br>
