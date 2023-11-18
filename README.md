@@ -1,5 +1,5 @@
-<p align="center"><b>&gt; Connect with Me &lt;</b></p>
-<p align="center">
+<p align="center"><b>&gt; Connect with Me &lt;</b>
+  <br>
   <a href="mailto:mustanali.cs@gmail.com"
     ><img
       src="https://i.ibb.co/7tH9Xd2/icons8-gmail-144.png"
@@ -18,7 +18,9 @@
       title="Linkedin"
   /></a>
 </p>
-<br />
+
+<hr>
+
 <p align="center"><b>&gt; Tech Stack & Tools &lt;</b></p>
 <p align="center">
   <kbd>
@@ -160,7 +162,10 @@
     />
   </kbd>
   <br />
-  <kbd>
+  
+  <hr>
+  
+  <p>
     <details align="center">
       <summary><b>Details</b></summary>
       <img
@@ -180,5 +185,4 @@
         src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square"
       />
     </details>
-  </kbd>
-</p>
+  </p>
