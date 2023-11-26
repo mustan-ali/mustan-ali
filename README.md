@@ -3,8 +3,8 @@
   <a href="mailto:mustanali.cs@gmail.com"
     ><img
       src="https://i.ibb.co/7tH9Xd2/icons8-gmail-144.png"
-      width="40"
-      height="40"
+      width="35"
+      height="35"
       alt="Mail"
       title="Mail"
   /></a>
@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/mustan-ali"
     ><img
       src="https://i.ibb.co/K2SvTNQ/icons8-linkedin-144.png"
-      width="40"
-      height="40"
+      width="32"
+      height="32"
       alt="Linkedin"
       title="Linkedin"
   /></a>
