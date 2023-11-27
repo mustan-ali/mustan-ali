@@ -1,26 +1,3 @@
-<p align="center"><b>&gt; Connect with Me &lt;</b>
-  <br>
-  <a href="mailto:mustanali.cs@gmail.com"
-    ><img
-      src="https://i.ibb.co/7tH9Xd2/icons8-gmail-144.png"
-      width="35"
-      height="35"
-      alt="Mail"
-      title="Mail"
-  /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mustan-ali"
-    ><img
-      src="https://i.ibb.co/K2SvTNQ/icons8-linkedin-144.png"
-      width="32"
-      height="32"
-      alt="Linkedin"
-      title="Linkedin"
-  /></a>
-</p>
-
-<hr>
-
 <p align="center"><b>&gt; Tech Stack & Tools &lt;</b></p>
 <p align="center">
   <kbd>
@@ -167,7 +144,7 @@
   
   <p>
     <details align="center">
-      <summary><b>Details</b></summary>
+      <summary>Details</summary>
       <img
         align="center"
         src="https://streak-stats.demolab.com?user=mustan-ali&theme=dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&fire=00FF00&ring=00FF00&currStreakLabel=00FF00"
@@ -182,7 +159,7 @@
         height="250"
       /><br />
       <img
-        src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square"
+        src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmustan-ali&label=Profile_Views&labelColor=%23000000&countColor=%23303030&style=flat-square"
       />
     </details>
   </p>
