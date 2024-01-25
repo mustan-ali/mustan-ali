@@ -82,6 +82,13 @@
       height="26"
       width="26"
     />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      title="MongoDB"
+      width="30"
+      height="30"
+      alt="MongoDB"
+    />
   </kbd>
   <br />
   <kbd>
