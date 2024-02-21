@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   </kbd>
   <br />
+  <hr>
 </p>
   <details align="center">
     <summary>Details</summary>
