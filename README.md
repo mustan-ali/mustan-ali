@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Solidity-%23404d59.svg?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   </kbd>
   <kbd>
     <kbd>Front-End</kbd>
